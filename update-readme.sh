@@ -11,9 +11,10 @@ else
 fi
 
 outputFile="README.md"
-markdownOutput=$(pandoc -s alex-en.tex)
+markdownOutput=$(pandoc -s alex-en.tex -o README.md)
 
-header="# Curriculum Vitae\n> last update $(date +'%d/%m/%Y')\n"
+header="# Curriculum Vitae
+> last update $(date +'%d/%m/%Y')
+"
 
-echo $header > $outputFile
-echo "$markdownOutput" >> $outputFile
+echo "$header" | cat - README.md > temp && mv temp README.md
