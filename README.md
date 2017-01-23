@@ -1,17 +1,23 @@
 # Curriculum Vitae
-> last update 23/08/2016
+> last update 23/01/2017
 
 Work Experience
 ===============
 
-<span>December 2015 – Current</span> <span>Ilegra, Porto Alegre</span>
+<span>October 2016 – Current</span> <span>Ilegra, Porto Alegre</span>
+<span>Full Stack Developer</span>
+
+Software consultant at AGCO in projects with solutions in Node.js and
+Groovy with micro-services architecture and event sourcing.
+
+<span>July 2016 – October 2016</span> <span>Ilegra, Porto Alegre</span>
 <span>Full Stack Developer</span>
 
 Development of an API and architecture solutions for software and mobile
 app at project Dimed using Java 8 with tools like Spring Boot and Apache
 Kafka.
 
-<span>December 2015 – July 2015</span> <span>Ilegra, Porto Alegre</span>
+<span>December 2015 – July 2016</span> <span>Ilegra, Porto Alegre</span>
 <span>Full Stack Developer</span>
 
 Development of government projects using Scala, Python and Java 8.
@@ -72,12 +78,12 @@ Languages
 Skills
 ======
 
-<span>Advanced</span> <span>Java, Linux, Git Flow</span>
+<span>Advanced</span> <span>Java, Linux, Versioning Tools, Python</span>
 
-<span>Intermediate</span> <span>Scala, Python, Ruby, Relational
-Databases, Front-end, <span>LaTeX</span></span>
+<span>Intermediate</span> <span>Scala, Ruby, Node.js, Groovy, Relational
+Databases, NoSQL, Front-end, <span>LaTeX</span></span>
 
-<span>Basic</span> <span>C, Oracle, Shell Script, PHP, NoSQL</span>
+<span>Basic</span> <span>C, Oracle, Shell Script, PHP</span>
 
 Other
 =====
